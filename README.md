@@ -6,12 +6,11 @@
 
 ㅤ
 ㅤ
-<p align="center"> <img alt="Static Badge" src="https://img.shields.io/badge/CARRD-821b1b?style=flat-square&link=https%3A%2F%2Frimtempest.carrd.co%2F">
- <img alt="Static Badge" src="https://img.shields.io/badge/PRNS.CC-821b1b?style=flat-square&link=https%3A%2F%2Fpronouns.cc%2F%40vanderbell"> <img alt="Static Badge" src="https://img.shields.io/badge/ATABOOK-821b1b?style=flat-square&link=https%3A%2F%2Fvanderbell.atabook.org%2F">
+
+
+<p align="center"> <a href="https://rimtempest.carrd.co/"><img src="https://img.shields.io/badge/CARRD-821b1b?style=flat-square&link=https%3A%2F%2Frimtempest.carrd.co%2F"></a><a href="https://pronouns.cc/vanderbell/"><img src="https://img.shields.io/badge/PRNS.CC-821b1b?style=flat-square&link=https%3A%2F%2Fpronouns.cc%2F%40vanderbell"></a><a href="https://vanderbell.atabook.org/"><img src="https://img.shields.io/badge/ATABOOK-821b1b?style=flat-square&link=https%3A%2F%2Fvanderbell.atabook.org%2F">
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/d1ae4da2-7da2-4bf5-85f9-8fe156fe7bb5" height="265">
-
-
+ 
 <p align="center"> <img src="https://github.com/user-attachments/assets/1e344b21-708e-43f8-b106-c82266f6cf66" height="70">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/CARRD-821b1b?style=flat-square&link=https%3A%2F%2Fvanderbell.carrd.co%2F">

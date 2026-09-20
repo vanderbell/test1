@@ -13,3 +13,5 @@
 
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/1e344b21-708e-43f8-b106-c82266f6cf66" height="70">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/CARRD-821b1b?style=flat-square&link=https%3A%2F%2Fvanderbell.carrd.co%2F">
